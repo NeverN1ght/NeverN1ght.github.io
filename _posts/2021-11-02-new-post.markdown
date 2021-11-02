@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hello World!"
+---
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+... which is shown in the screenshot below:
+![My helpful screenshot](https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif)
+
+I hope you like it!
